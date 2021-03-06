@@ -6,7 +6,7 @@ This package provides Go implementation of Fondy api.
 
 Use the `go` command:
 
-	$ go get github.com/srostyslav/fondy-go
+	$ go get github.com/srostyslav/fondy
 
 ## Requirements
 
